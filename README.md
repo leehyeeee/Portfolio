@@ -25,7 +25,7 @@
 >
 > - Language : python  
 > 
-> [프로젝트 상세 설명](https://github.com/leehyeeee/)  
+> [프로젝트 상세 설명](https://github.com/leehyeeee/Sales-Opportunity)  
 >
 
 <br />
@@ -38,7 +38,7 @@
 > - 핵심 역할 : 
 > - Language : python, R
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/HeartFeatures)
 
 <br />
 
@@ -50,7 +50,7 @@
 > - 핵심 역할 : 
 > - Language : python, R
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/SolarPower)
 
 <br />
 
@@ -62,7 +62,7 @@
 > - 핵심 역할 : 
 > - Language : python
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/EcoPath)
 
 <br />
 
@@ -74,7 +74,7 @@
 > - 핵심 역할 : 
 > - Language : python
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/Cold-Damage)
 
 <br />
 <br />
