@@ -19,13 +19,10 @@
 ### 1. 영업 성과 분류
 
 > LGaimers 4기 - 팀프로젝트
->
-> - 기간 : 2024.02.01-02.26
 > - 핵심 역할 : EDA, 전처리, 모델링
->
 > - Language : python  
 > 
-> [프로젝트 상세 설명](https://github.com/leehyeeee/Sales-Opportunity)  
+> [프로젝트 상세 설명](https://github.com/leehyeeee/2024_LG_Aimers)  
 >
 
 <br />
@@ -33,48 +30,42 @@
 ### 2. 심근의 특성과 질병 관계
 
 > 통계학과 학부 연구 - 개인프로젝트
->
-> - 기간 : 2022.06.28-07.06
 > - 핵심 역할 : 
 > - Language : python, R
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/HeartFeatures)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/2023_HeartFeatures)
 
 <br />
 
 ### 3. 태양광 발전량 예측 연구
 
 > 통계학과 학부 연구 - 개인프로젝트
->
-> - 기간 : 2022.06.28-07.06
 > - 핵심 역할 : 
 > - Language : python, R
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/SolarPower)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/2023_SolarPower)
 
 <br />
 
 ### 4. 생태통로 최적화
 
-> ~ 공모전 - 팀프로젝트
+> 미래 사회문제 해결 아이디어 해커톤 - 팀프로젝트
 >
-> - 기간 : 2022.06.28-07.06
 > - 핵심 역할 : 
 > - Language : python
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/EcoPath)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/2024_EcoPath)
 
 <br />
 
-### 5. 냉해 모니터링
+### 5. 모델 튜닝 챌린지 : 하이퍼파라미터 최적화 경진대회
 
-> ~ 공모전 - 팀프로젝트
+> 데이콘 경진대회 - 개인프로젝트
 >
-> - 기간 : 2022.06.28-07.06
-> - 핵심 역할 : 
+> - 핵심 역할 : Automl로 하이퍼파라미터 최적화
 > - Language : python
 >
-> [프로젝트 상세 설명](https://github.com/leehyeeee/Cold-Damage)
+> [프로젝트 상세 설명](https://github.com/leehyeeee/2024_RF_tuning)
 
 <br />
 <br />
